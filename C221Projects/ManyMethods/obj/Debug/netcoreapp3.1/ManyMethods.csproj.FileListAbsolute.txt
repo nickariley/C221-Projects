@@ -1,0 +1,10 @@
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ManyMethods\bin\Debug\netcoreapp3.1\ManyMethods.exe
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ManyMethods\bin\Debug\netcoreapp3.1\ManyMethods.deps.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ManyMethods\bin\Debug\netcoreapp3.1\ManyMethods.runtimeconfig.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ManyMethods\bin\Debug\netcoreapp3.1\ManyMethods.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ManyMethods\bin\Debug\netcoreapp3.1\ManyMethods.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ManyMethods\bin\Debug\netcoreapp3.1\ManyMethods.pdb
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ManyMethods\obj\Debug\netcoreapp3.1\ManyMethods.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ManyMethods\obj\Debug\netcoreapp3.1\ManyMethods.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ManyMethods\obj\Debug\netcoreapp3.1\ManyMethods.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ManyMethods\obj\Debug\netcoreapp3.1\ManyMethods.pdb
