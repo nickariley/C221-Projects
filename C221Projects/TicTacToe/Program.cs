@@ -49,7 +49,7 @@ namespace TicTacToe
                         }
                         else //if not a tie and no one has won switch player letter, if player is X then switch to O else if player is O switch to X and start back to the while loop isPlaying.
                         {
-                            playerLetter = (playerLetter == "X") ? "O" : "X";
+                            playerLetter = playerLetter == "X" ? "O" : "X";
                         }
 
                     }
