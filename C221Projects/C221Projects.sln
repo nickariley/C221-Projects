@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RockPaperScissors", "RockPa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{D64EB746-77FB-4FE8-86E1-D1311FF35B8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterMind", "MasterMind\MasterMind.csproj", "{FB5D06C3-E820-4F94-AE69-28B9938C1572}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterMind", "MasterMind\MasterMind.csproj", "{FB5D06C3-E820-4F94-AE69-28B9938C1572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeBook", "GradeBook\GradeBook.csproj", "{74BD0C83-D06D-4EB3-84EA-CD9950210BDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{FB5D06C3-E820-4F94-AE69-28B9938C1572}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB5D06C3-E820-4F94-AE69-28B9938C1572}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB5D06C3-E820-4F94-AE69-28B9938C1572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74BD0C83-D06D-4EB3-84EA-CD9950210BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BD0C83-D06D-4EB3-84EA-CD9950210BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BD0C83-D06D-4EB3-84EA-CD9950210BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BD0C83-D06D-4EB3-84EA-CD9950210BDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
