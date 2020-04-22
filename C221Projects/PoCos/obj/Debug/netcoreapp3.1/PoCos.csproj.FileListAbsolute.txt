@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\PoCos\bin\Debug\netcoreapp3.1\PoCos.exe
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\PoCos\bin\Debug\netcoreapp3.1\PoCos.deps.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\PoCos\bin\Debug\netcoreapp3.1\PoCos.runtimeconfig.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\PoCos\bin\Debug\netcoreapp3.1\PoCos.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\PoCos\bin\Debug\netcoreapp3.1\PoCos.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\PoCos\bin\Debug\netcoreapp3.1\PoCos.pdb
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\PoCos\obj\Debug\netcoreapp3.1\PoCos.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\PoCos\obj\Debug\netcoreapp3.1\PoCos.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\PoCos\obj\Debug\netcoreapp3.1\PoCos.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\PoCos\obj\Debug\netcoreapp3.1\PoCos.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\PoCos\obj\Debug\netcoreapp3.1\PoCos.pdb
