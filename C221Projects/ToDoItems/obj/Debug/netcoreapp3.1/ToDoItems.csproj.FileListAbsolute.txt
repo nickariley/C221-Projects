@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ToDoItems\bin\Debug\netcoreapp3.1\ToDoItems.exe
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ToDoItems\bin\Debug\netcoreapp3.1\ToDoItems.deps.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ToDoItems\bin\Debug\netcoreapp3.1\ToDoItems.runtimeconfig.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ToDoItems\bin\Debug\netcoreapp3.1\ToDoItems.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ToDoItems\bin\Debug\netcoreapp3.1\ToDoItems.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ToDoItems\bin\Debug\netcoreapp3.1\ToDoItems.pdb
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ToDoItems\obj\Debug\netcoreapp3.1\ToDoItems.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ToDoItems\obj\Debug\netcoreapp3.1\ToDoItems.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ToDoItems\obj\Debug\netcoreapp3.1\ToDoItems.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ToDoItems\obj\Debug\netcoreapp3.1\ToDoItems.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\ToDoItems\obj\Debug\netcoreapp3.1\ToDoItems.pdb
