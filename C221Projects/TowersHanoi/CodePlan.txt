@@ -1,0 +1,34 @@
+﻿1. Create a dictionary w/ string keys and Stack values to represent board.
+
+2. declare and initialize an empty stack to push play pieces on.
+make a total of 3 stacks A, B, & C. A will hold all 4 pieces to start game. B & C will be empty.
+
+
+3. Use a while, or do while loop to continue game as long as check win is false.
+
+4. Ask user for 2 pieces of information, the From stack string and the To stack string.
+
+5. Use these string variables to evaluate if the move is valid in an IsMoveValid method.
+
+6. If it is a valid move use .pop and .push methods to move pieces from and to stacks.
+
+7. Use a try catch to ensure user doesn't create an exception with unexpected input and make game crash.
+
+
+8. Create method for is the move valid or not:
+Logic:
+Is there a piece in the from stack available to move? 
+If so then does the spot user is trying to move to have a piece there? 
+If it does have a piece there we want to use the .peek() to see if its greater than the piece we're trying to stack on it.
+If it's smaller we dont want to be able to make that move.
+If the board stack is already empty we will assume its a valid move.
+(use if, else if, else, with arguments from and to. use .peek() for stacks to look at values.)
+
+9. Create method for Printing the board to console: using a foreach loop we can print each item.Key,
+then store the item.values .toArray() in a variable.
+then use that variable to iterate in reverse with .length i-- and print the board.
+
+10. Create method for Checking Win or not: with the if move is valid logic we only need to check if all four pieces are stacked.
+Since our move logic will make sure larger pieces cant be placed on smaller pieces we know this is true.
+(use .Count)
+

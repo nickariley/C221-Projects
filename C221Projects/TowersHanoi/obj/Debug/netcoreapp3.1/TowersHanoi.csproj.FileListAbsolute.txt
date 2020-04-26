@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\TowersHanoi\bin\Debug\netcoreapp3.1\TowersHanoi.exe
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\TowersHanoi\bin\Debug\netcoreapp3.1\TowersHanoi.deps.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\TowersHanoi\bin\Debug\netcoreapp3.1\TowersHanoi.runtimeconfig.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\TowersHanoi\bin\Debug\netcoreapp3.1\TowersHanoi.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\TowersHanoi\bin\Debug\netcoreapp3.1\TowersHanoi.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\TowersHanoi\bin\Debug\netcoreapp3.1\TowersHanoi.pdb
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\TowersHanoi\obj\Debug\netcoreapp3.1\TowersHanoi.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\TowersHanoi\obj\Debug\netcoreapp3.1\TowersHanoi.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\TowersHanoi\obj\Debug\netcoreapp3.1\TowersHanoi.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\TowersHanoi\obj\Debug\netcoreapp3.1\TowersHanoi.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\TowersHanoi\obj\Debug\netcoreapp3.1\TowersHanoi.pdb
