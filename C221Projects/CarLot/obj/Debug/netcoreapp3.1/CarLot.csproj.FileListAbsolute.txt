@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\CarLot\bin\Debug\netcoreapp3.1\CarLot.exe
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\CarLot\bin\Debug\netcoreapp3.1\CarLot.deps.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\CarLot\bin\Debug\netcoreapp3.1\CarLot.runtimeconfig.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\CarLot\bin\Debug\netcoreapp3.1\CarLot.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\CarLot\bin\Debug\netcoreapp3.1\CarLot.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\CarLot\bin\Debug\netcoreapp3.1\CarLot.pdb
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\CarLot\obj\Debug\netcoreapp3.1\CarLot.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\CarLot\obj\Debug\netcoreapp3.1\CarLot.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\CarLot\obj\Debug\netcoreapp3.1\CarLot.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\CarLot\obj\Debug\netcoreapp3.1\CarLot.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\CarLot\obj\Debug\netcoreapp3.1\CarLot.pdb

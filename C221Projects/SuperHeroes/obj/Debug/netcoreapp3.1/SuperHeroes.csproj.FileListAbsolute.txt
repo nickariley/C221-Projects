@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\SuperHeroes\bin\Debug\netcoreapp3.1\SuperHeroes.exe
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\SuperHeroes\bin\Debug\netcoreapp3.1\SuperHeroes.deps.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\SuperHeroes\bin\Debug\netcoreapp3.1\SuperHeroes.runtimeconfig.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\SuperHeroes\bin\Debug\netcoreapp3.1\SuperHeroes.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\SuperHeroes\bin\Debug\netcoreapp3.1\SuperHeroes.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\SuperHeroes\bin\Debug\netcoreapp3.1\SuperHeroes.pdb
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\SuperHeroes\obj\Debug\netcoreapp3.1\SuperHeroes.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\SuperHeroes\obj\Debug\netcoreapp3.1\SuperHeroes.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\SuperHeroes\obj\Debug\netcoreapp3.1\SuperHeroes.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\SuperHeroes\obj\Debug\netcoreapp3.1\SuperHeroes.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\SuperHeroes\obj\Debug\netcoreapp3.1\SuperHeroes.pdb
