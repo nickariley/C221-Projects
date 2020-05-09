@@ -25,7 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperHeroes", "SuperHeroes\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarLot", "CarLot\CarLot.csproj", "{1D00A7FE-8FCD-48D9-B890-9AB5F91B0306}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers", "Checkers\Checkers.csproj", "{14CAD0E5-73AC-47C5-982B-F0306980CB82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checkers", "Checkers\Checkers.csproj", "{14CAD0E5-73AC-47C5-982B-F0306980CB82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBoardWeek6D1", "WhiteBoardWeek6D1\WhiteBoardWeek6D1.csproj", "{12D43E88-1778-4229-9FC1-770B3738854C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRentable", "IRentable\IRentable.csproj", "{329B94A6-82AE-4075-9C0C-88BED042EC17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{14CAD0E5-73AC-47C5-982B-F0306980CB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14CAD0E5-73AC-47C5-982B-F0306980CB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14CAD0E5-73AC-47C5-982B-F0306980CB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D43E88-1778-4229-9FC1-770B3738854C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D43E88-1778-4229-9FC1-770B3738854C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D43E88-1778-4229-9FC1-770B3738854C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D43E88-1778-4229-9FC1-770B3738854C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329B94A6-82AE-4075-9C0C-88BED042EC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329B94A6-82AE-4075-9C0C-88BED042EC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329B94A6-82AE-4075-9C0C-88BED042EC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329B94A6-82AE-4075-9C0C-88BED042EC17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

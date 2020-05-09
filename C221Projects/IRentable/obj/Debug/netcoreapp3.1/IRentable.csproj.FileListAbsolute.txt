@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\IRentable\obj\Debug\netcoreapp3.1\IRentable.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\IRentable\obj\Debug\netcoreapp3.1\IRentable.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\IRentable\obj\Debug\netcoreapp3.1\IRentable.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\IRentable\bin\Debug\netcoreapp3.1\IRentable.exe
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\IRentable\bin\Debug\netcoreapp3.1\IRentable.deps.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\IRentable\bin\Debug\netcoreapp3.1\IRentable.runtimeconfig.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\IRentable\bin\Debug\netcoreapp3.1\IRentable.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\IRentable\bin\Debug\netcoreapp3.1\IRentable.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\IRentable\bin\Debug\netcoreapp3.1\IRentable.pdb
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\IRentable\obj\Debug\netcoreapp3.1\IRentable.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\IRentable\obj\Debug\netcoreapp3.1\IRentable.pdb

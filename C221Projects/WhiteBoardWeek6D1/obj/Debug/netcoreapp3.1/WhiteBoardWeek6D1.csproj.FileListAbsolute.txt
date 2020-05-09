@@ -1,0 +1,10 @@
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\WhiteBoardWeek6D1\bin\Debug\netcoreapp3.1\WhiteBoardWeek6D1.exe
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\WhiteBoardWeek6D1\bin\Debug\netcoreapp3.1\WhiteBoardWeek6D1.deps.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\WhiteBoardWeek6D1\bin\Debug\netcoreapp3.1\WhiteBoardWeek6D1.runtimeconfig.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\WhiteBoardWeek6D1\bin\Debug\netcoreapp3.1\WhiteBoardWeek6D1.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\WhiteBoardWeek6D1\bin\Debug\netcoreapp3.1\WhiteBoardWeek6D1.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\WhiteBoardWeek6D1\bin\Debug\netcoreapp3.1\WhiteBoardWeek6D1.pdb
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\WhiteBoardWeek6D1\obj\Debug\netcoreapp3.1\WhiteBoardWeek6D1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\WhiteBoardWeek6D1\obj\Debug\netcoreapp3.1\WhiteBoardWeek6D1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\WhiteBoardWeek6D1\obj\Debug\netcoreapp3.1\WhiteBoardWeek6D1.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\WhiteBoardWeek6D1\obj\Debug\netcoreapp3.1\WhiteBoardWeek6D1.pdb

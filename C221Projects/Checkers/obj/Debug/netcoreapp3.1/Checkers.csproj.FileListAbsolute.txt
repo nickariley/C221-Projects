@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\Checkers\obj\Debug\netcoreapp3.1\Checkers.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\Checkers\obj\Debug\netcoreapp3.1\Checkers.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\Checkers\obj\Debug\netcoreapp3.1\Checkers.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\Checkers\bin\Debug\netcoreapp3.1\Checkers.exe
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\Checkers\bin\Debug\netcoreapp3.1\Checkers.deps.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\Checkers\bin\Debug\netcoreapp3.1\Checkers.runtimeconfig.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\Checkers\bin\Debug\netcoreapp3.1\Checkers.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\Checkers\bin\Debug\netcoreapp3.1\Checkers.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\Checkers\bin\Debug\netcoreapp3.1\Checkers.pdb
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\Checkers\obj\Debug\netcoreapp3.1\Checkers.dll
+C:\Users\Owner\Desktop\C221-Projects\C221Projects\Checkers\obj\Debug\netcoreapp3.1\Checkers.pdb
