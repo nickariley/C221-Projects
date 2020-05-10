@@ -10,8 +10,14 @@ namespace IRentable
         {
             List<IRentable> rentables = new List<IRentable>();
             rentables.Add(new Boat(2020, "Mastercraft", "X24", 8, 75.99M));
+            rentables.Add(new Boat(2020, "Ranger", "Z Comanche Series - Z500", 8, 65.99M));
+            rentables.Add(new Boat(2020, "Malibu", "Wakesetter", 4, 85.99M));
             rentables.Add(new Car(1969, "Chevrolet", "Camaro", 2, 200));
-            rentables.Add(new House("105 Hilltop Way", 8, 3, 16, "Pool & HotTub", 7));
+            rentables.Add(new Car(1969, "Chevrolet", "Chevelle", 2, 100));
+            rentables.Add(new Car(1969, "Chevrolet", "Nova", 2, 350));
+            rentables.Add(new House("1190 Hilltop Way", 8, 3, 16, "Pool & HotTub", 7));
+            rentables.Add(new House("125 Rocky Mountain Way", 12, 4, 24, "Steam Room & Sauna", 7));
+            rentables.Add(new House("315 Lakeside Drive", 4, 2, 8, "Private Dock", 7));
 
             foreach (var item in rentables)
             {
