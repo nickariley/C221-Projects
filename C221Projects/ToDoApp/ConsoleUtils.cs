@@ -30,8 +30,8 @@ namespace ToDoApp
 
         public void UtilPrintMenu()
         {
-            Console.WriteLine($"1: Add a ToDoItem\n2: Delete a ToDoItem\n3: Mark a ToDoItem as Done\n4: List All ToDoItems\n5: List all Done ToDoItems\n6: List all Pending ToDoItems\n7: To Exit the App");
-            Console.WriteLine($"Enter the option number:");
+            Console.WriteLine($"\t1: Add a ToDoItem\n\t2: Delete a ToDoItem\n\t3: Mark a ToDoItem as Done\n\t4: List All ToDoItems\n\t5: List all Done ToDoItems\n\t6: List all Pending ToDoItems\n\t7: To Exit the App");
+            Console.WriteLine($"\tEnter the option number:");
         }
 
 
@@ -40,7 +40,7 @@ namespace ToDoApp
             Console.Clear();
             foreach (var item in toDoItem)
             {
-                Console.WriteLine($"ToDoItem ID: {item.Id}\nToDoItem Description: {item.Description}\n ToDoItem Pending: {item.Pending}");
+                Console.WriteLine($"\tToDoItem ID: {item.Id}\n\tToDoItem Pending: {item.Pending}\n\tToDoItem Description: {item.Description}\n\n");
             }
 
         }
@@ -58,6 +58,7 @@ namespace ToDoApp
         {
             Console.WriteLine($"Please enter the Description of the ToDoItem:");
             string desc = Console.ReadLine();
+            Console.Clear();
             return desc;
         }
 

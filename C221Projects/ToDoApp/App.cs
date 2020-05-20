@@ -28,11 +28,11 @@ namespace ToDoApp
                 switch (response)
                 {
 
-                    case 1:
+                    case 1: //Add ToDoItem
                         itemRepository.AddItem(consoleUtils.UtilAddItem());
                         break;
 
-                    case 2:
+                    case 2: // Delete ToDoItem
                         if (itemRepository.CheckItem(consoleUtils.UtilGetItem()) == true)
                         {
                             itemRepository.RemoveItem(consoleUtils.UtilGetItem());
